@@ -190,13 +190,6 @@ Flyway gestiona el esquema automáticamente en el orden siguiente:
 
 ---
 
-## 🧪 Guía de pruebas con Insomnia
-
-> Puedes importar la colección lista desde el archivo `forohub-insomnia-collection.json` en Insomnia:  
-> `File → Import → From File`
-
----
-
 ### ⚠️ Manejo del Token JWT
 
 Todos los endpoints **excepto `/login`** requieren autenticación.  
